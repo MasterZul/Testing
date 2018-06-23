@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 555adf04faed34245a182434d97ad272
+timeCreated: 1512714413
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip02
+    100004: Bip02 Footsteps
+    100006: Bip02 Head
+    100008: Bip02 HeadNub
+    100010: Bip02 L Calf
+    100012: Bip02 L Clavicle
+    100014: Bip02 L Finger0
+    100016: Bip02 L Finger01
+    100018: Bip02 L Finger0Nub
+    100020: Bip02 L Finger1
+    100022: Bip02 L Finger11
+    100024: Bip02 L Finger1Nub
+    100026: Bip02 L Foot
+    100028: Bip02 L Forearm
+    100030: Bip02 L Hand
+    100032: Bip02 L Thigh
+    100034: Bip02 L Toe0
+    100036: Bip02 L Toe0Nub
+    100038: Bip02 L UpperArm
+    100040: Bip02 Neck
+    100042: Bip02 Pelvis
+    100044: Bip02 R Calf
+    100046: Bip02 R Clavicle
+    100048: Bip02 R Finger0
+    100050: Bip02 R Finger01
+    100052: Bip02 R Finger0Nub
+    100054: Bip02 R Finger1
+    100056: Bip02 R Finger11
+    100058: Bip02 R Finger1Nub
+    100060: Bip02 R Foot
+    100062: Bip02 R Forearm
+    100064: Bip02 R Hand
+    100066: Bip02 R Thigh
+    100068: Bip02 R Toe0
+    100070: Bip02 R Toe0Nub
+    100072: Bip02 R UpperArm
+    100074: Bip02 Spine
+    100076: Bip02 Spine1
+    100078: Bone01
+    100080: Bone02
+    100082: Bone03
+    100084: Bone04
+    100086: Bone05
+    100088: Bone06
+    100090: Bone07
+    100092: Bone09
+    100094: Bone11
+    100096: Object01
+    100098: Object01 1
+    100100: Object02
+    100102: "\u6B47\u606F"
+    100104: "\u6B47\u606F.Target"
+    100106: "\u6B63\u9762"
+    100108: "\u6B63\u9762.Target"
+    100110: "\u6D0B\u7D2B\u540C\u5B66"
+    100112: "\u8D70\u8DEF\u8DD1\u6B65"
+    100114: "\u8D70\u8DEF\u8DD1\u6B65.Target"
+    400000: //RootNode
+    400002: Bip02
+    400004: Bip02 Footsteps
+    400006: Bip02 Head
+    400008: Bip02 HeadNub
+    400010: Bip02 L Calf
+    400012: Bip02 L Clavicle
+    400014: Bip02 L Finger0
+    400016: Bip02 L Finger01
+    400018: Bip02 L Finger0Nub
+    400020: Bip02 L Finger1
+    400022: Bip02 L Finger11
+    400024: Bip02 L Finger1Nub
+    400026: Bip02 L Foot
+    400028: Bip02 L Forearm
+    400030: Bip02 L Hand
+    400032: Bip02 L Thigh
+    400034: Bip02 L Toe0
+    400036: Bip02 L Toe0Nub
+    400038: Bip02 L UpperArm
+    400040: Bip02 Neck
+    400042: Bip02 Pelvis
+    400044: Bip02 R Calf
+    400046: Bip02 R Clavicle
+    400048: Bip02 R Finger0
+    400050: Bip02 R Finger01
+    400052: Bip02 R Finger0Nub
+    400054: Bip02 R Finger1
+    400056: Bip02 R Finger11
+    400058: Bip02 R Finger1Nub
+    400060: Bip02 R Foot
+    400062: Bip02 R Forearm
+    400064: Bip02 R Hand
+    400066: Bip02 R Thigh
+    400068: Bip02 R Toe0
+    400070: Bip02 R Toe0Nub
+    400072: Bip02 R UpperArm
+    400074: Bip02 Spine
+    400076: Bip02 Spine1
+    400078: Bone01
+    400080: Bone02
+    400082: Bone03
+    400084: Bone04
+    400086: Bone05
+    400088: Bone06
+    400090: Bone07
+    400092: Bone09
+    400094: Bone11
+    400096: Object01
+    400098: Object01 1
+    400100: Object02
+    400102: "\u6B47\u606F"
+    400104: "\u6B47\u606F.Target"
+    400106: "\u6B63\u9762"
+    400108: "\u6B63\u9762.Target"
+    400110: "\u6D0B\u7D2B\u540C\u5B66"
+    400112: "\u8D70\u8DEF\u8DD1\u6B65"
+    400114: "\u8D70\u8DEF\u8DD1\u6B65.Target"
+    2000000: "\u6B47\u606F"
+    2000002: "\u6B63\u9762"
+    2000004: "\u8D70\u8DEF\u8DD1\u6B65"
+    2300000: Object01
+    2300002: Object01 1
+    2300004: Object02
+    3300000: Object01
+    3300002: Object01 1
+    3300004: Object02
+    4300000: "\u6D0B\u7D2B\u540C\u5B66"
+    4300002: Object01
+    4300004: Object02
+    4300006: Object01
+    7400000: Walk
+    9500000: //RootNode
+    13700000: "\u6D0B\u7D2B\u540C\u5B66"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: c8929d1df38af2c4cbb19cb48dc55248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #266'
+    second: {fileID: 2100000, guid: 1e6d297bac5ef3447b1bb9ce15e0a80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #267'
+    second: {fileID: 2100000, guid: 3c0a86b87216f67448de1e9a268ce2a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

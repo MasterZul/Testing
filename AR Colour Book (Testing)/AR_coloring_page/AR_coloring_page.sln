@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_coloring_page", "AR_coloring_page.csproj", "{8494E2C8-A27A-9CE1-61EC-DA5E024338AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_coloring_page.Editor", "AR_coloring_page.Editor.csproj", "{239A46C2-56C8-5E8B-4968-1218C3B0425D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8494E2C8-A27A-9CE1-61EC-DA5E024338AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8494E2C8-A27A-9CE1-61EC-DA5E024338AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8494E2C8-A27A-9CE1-61EC-DA5E024338AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8494E2C8-A27A-9CE1-61EC-DA5E024338AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239A46C2-56C8-5E8B-4968-1218C3B0425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239A46C2-56C8-5E8B-4968-1218C3B0425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239A46C2-56C8-5E8B-4968-1218C3B0425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239A46C2-56C8-5E8B-4968-1218C3B0425D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
